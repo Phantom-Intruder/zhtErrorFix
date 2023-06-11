@@ -4,6 +4,8 @@ If your Dragon's Dogma game crashes with the error "failed to open *_zht.gmd" at
 
 ## Usage
 
+[Download the mod here](https://www.nexusmods.com/dragonsdogma/mods/884?tab=files)
+
 **If you are using Vortex:**
     - Open Vortex
     - Go to the mods section
